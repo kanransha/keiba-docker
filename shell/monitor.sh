@@ -1,0 +1,1 @@
+docker exec -it database mysql -p$MYSQL_ROOT_PASSWORD
